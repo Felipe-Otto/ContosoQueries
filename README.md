@@ -2,6 +2,7 @@ Este projeto apresenta uma lista de exercícios em SQL/T-SQL utilizando a base d
 
 Requisitos para teste:
 - Microsoft SQL Server Management Studio
+
 - Base de Dados Contoso Ingles 
   Link: https://www.microsoft.com/en-pk/download/details.aspx?id=18279
   ![image](https://user-images.githubusercontent.com/93014865/219934676-4296d464-15d8-48d3-9826-c8bf5713f471.png)
