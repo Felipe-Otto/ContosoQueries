@@ -5,6 +5,12 @@ Requisitos para teste:
 - Base de Dados Contoso Ingles 
   Link: https://www.microsoft.com/en-pk/download/details.aspx?id=18279
   ![image](https://user-images.githubusercontent.com/93014865/219934676-4296d464-15d8-48d3-9826-c8bf5713f471.png)
-  
+
+Como testar:
+- Após o Download da base Contoso Descompacte o Aquivo:
+![Captura de Tela (1)](https://user-images.githubusercontent.com/93014865/219935255-481258d9-0481-4b1b-a7ba-8272b5913517.png)
+- Após a Descompactação, Envie o Arquivo 'ContosoRetailDW.bak' Para o Disco Local C
+- 
+
 
 
