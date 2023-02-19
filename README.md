@@ -9,8 +9,10 @@ Requisitos para teste:
 Como testar:
 - Após o Download da base Contoso Descompacte o Aquivo:
 ![Captura de Tela (1)](https://user-images.githubusercontent.com/93014865/219935255-481258d9-0481-4b1b-a7ba-8272b5913517.png)
-- Após a Descompactação, Envie o Arquivo 'ContosoRetailDW.bak' Para o Disco Local C
-- 
+- Após a Descompactação, Abra a Pasta e Envie o Arquivo 'ContosoRetailDW.bak' Para o Disco Local C
+- Feito Isso, No SQl Server Management Studio, Clique Com o Botão Direito em 'Bancos de Dados' e Clique em 'Novo Banco de Dados':
+![Captura de Tela (3)](https://user-images.githubusercontent.com/93014865/219935909-31c4ee26-3790-4805-922a-f5f4d7462a7e.png)
+
 
 
 
