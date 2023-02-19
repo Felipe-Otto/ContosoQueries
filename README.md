@@ -24,7 +24,7 @@ Como testar:
 - Primeiro Selecione 'C:' e Em Segundo Clique em 'ContosoRetailDW.bak'. Com Essa Selecionada, Clique em 'OK'
 ![Sem título](https://user-images.githubusercontent.com/93014865/219936684-37909329-ea84-4ce9-839a-01f2e894a0eb.png)
 
-- Clique Em 'OK':⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+- Clique Em 'OK':⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ![image](https://user-images.githubusercontent.com/93014865/219936868-b5b04211-1e00-4d2b-835d-f9291ea15544.png)
 
 - Aguarde o Término da Importação e Clique em 'OK':
