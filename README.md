@@ -13,7 +13,7 @@ Como testar:
 
 - Abra a Pasta e Envie o Arquivo 'ContosoRetailDW.bak' Para o Disco Local C
 
-- No SQl Server Management Studio, Clique Com o Botão Direito em 'Bancos de Dados' e Clique em 'Restaurar Banco de Dados':
+- No SQL Server, Clique Com o Botão Direito em 'Bancos de Dados' e Clique em 'Restaurar Banco de Dados':
 ![Captura de Tela (4)](https://user-images.githubusercontent.com/93014865/219936060-75e4e236-d47f-44a2-b468-8bea9055b716.png)
 
 - Selecione a opção 'Dispositivo' e clique nos 3 pontinhos:
