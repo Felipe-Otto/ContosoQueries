@@ -11,22 +11,20 @@ Como testar:
 ![Captura de Tela (1)](https://user-images.githubusercontent.com/93014865/219935255-481258d9-0481-4b1b-a7ba-8272b5913517.png)
 
 - Abra a Pasta e Envie o Arquivo 'ContosoRetailDW.bak' Para o Disco Local C
-- 
+
 - No SQl Server Management Studio, Clique Com o Botão Direito em 'Bancos de Dados' e Clique em 'Restaurar Banco de Dados':
 ![Captura de Tela (4)](https://user-images.githubusercontent.com/93014865/219936060-75e4e236-d47f-44a2-b468-8bea9055b716.png)
 
 - Selecione a opção 'Dispositivo' e clique nos 3 pontinhos:
 ![Captura de Tela (5)](https://user-images.githubusercontent.com/93014865/219936197-f5c9759d-ea80-4358-8df1-82d18450c800.png)
 
-- Clique em Adicionar:
-
+- Clique em Adicionar:⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ![Captura de Tela (6)](https://user-images.githubusercontent.com/93014865/219936271-f96ceca2-8dcc-4c82-9d0b-62c027c7e713.png)
 
 - Primeiro Selecione 'C:' e Em Segundo Clique em 'ContosoRetailDW.bak'. Com Essa Selecionada, Clique em 'OK'
 ![Sem título](https://user-images.githubusercontent.com/93014865/219936684-37909329-ea84-4ce9-839a-01f2e894a0eb.png)
 
-- Clique Em 'OK':
-
+- Clique Em 'OK':⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ![image](https://user-images.githubusercontent.com/93014865/219936868-b5b04211-1e00-4d2b-835d-f9291ea15544.png)
 
 - Aguarde o Término da Importação e Clique em 'OK':
