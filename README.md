@@ -23,7 +23,7 @@ Como testar:
 ![Captura de Tela (6)](https://user-images.githubusercontent.com/93014865/219936271-f96ceca2-8dcc-4c82-9d0b-62c027c7e713.png)
 
 - Primeiro Selecione 'C:' e Em Segundo Clique em 'ContosoRetailDW.bak'. Com Essa Selecionada, Clique em 'OK'
-![Sem título](https://user-images.githubusercontent.com/93014865/219936684-37909329-ea84-4ce9-839a-01f2e894a0eb.png)
+![Sem título](https://user-images.githubusercontent.com/93014865/219937298-6e403472-e296-4b61-8f07-9ac058573983.png)
 
 - Clique Em 'OK':⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ![image](https://user-images.githubusercontent.com/93014865/219936868-b5b04211-1e00-4d2b-835d-f9291ea15544.png)
