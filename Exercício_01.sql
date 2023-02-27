@@ -1,3 +1,6 @@
+-- Conectando à Base de Dados
+USE ContosoRetailDW
+
 -- 1. a)
 SELECT COUNT(ProductKey) FROM DimProduct
 
@@ -15,7 +18,7 @@ FROM
 
 -- 2. b)
 SELECT 
-	CustomerKey AS 'Chave Prim�ria',
+	CustomerKey AS 'Chave Primária',
 	FirstName AS 'Primeiro Nome',
 	EmailAddress As 'E-mail',
 	BirthDate As 'Data de Nascimento'
